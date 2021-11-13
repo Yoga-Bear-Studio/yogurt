@@ -1,0 +1,8 @@
+Create a class (yoga class) - time, teacher, and kind of class
+    teacher: Goldie Locks
+    create lesson class
+-create a class for teacher-
+levels (cub, grizzly) - grizzly training the cub instructor
+Read the class schedule
+Updating the aspects of the class (time, teacher, kind of class)
+Deleting a class
