@@ -6,3 +6,4 @@ levels (cub, grizzly) - grizzly training the cub instructor
 Read the class schedule
 Updating the aspects of the class (time, teacher, kind of class)
 Deleting a class
+
