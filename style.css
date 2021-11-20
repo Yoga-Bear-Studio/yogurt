@@ -6,3 +6,7 @@ nav ul {
     display: flex;
     justify-content: center;
 }
+
+nav li {
+    list-style-type: none;
+}
