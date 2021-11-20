@@ -1,17 +1,8 @@
-* {
-     border: 1 px solid red;
-}
-nav {
-    border: 5 px solid blue;
-}
-
-ul {
-    border: 2px solid black; 
-
-}
-li {
-    border: 2px dotted green;
-}
-a {
-    background-color: yellow;
+nav ul {
+    margin: 0;
+    padding: 0
+    list-style-type: none;
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: center;
 }
