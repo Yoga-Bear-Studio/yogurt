@@ -1,12 +1,23 @@
-nav ul {
-    margin: 0;
-    padding: 0
-    list-style-type: none;
-    font-size: 1.5rem;
-    display: flex;
-    justify-content: center;
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@700&display=swap');
+:root{
+    --nav-color: #FF87CA;
+    --gray: #EAEAEA;
+    --light-pink: #FFC4E1;
 }
 
-table, th, td {
-    border:1px solid black;
+nav {
+    background-color: var(--nav-color);
 }
+form {
+    background-color: var(--gray);
+}
+
+body{
+    text-align: center;
+    margin: 0;
+    font-family: 'Oxygen', sans-serif;
+}
+input{
+    margin: 10px;
+}
+
