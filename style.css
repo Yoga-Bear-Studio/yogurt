@@ -8,6 +8,10 @@
 nav {
     background-color: var(--nav-color);
 }
+
+ a {
+    padding: 30px;
+}
 form {
     background-color: var(--gray);
 }
@@ -20,4 +24,5 @@ body{
 input{
     margin: 10px;
 }
+
 
