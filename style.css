@@ -9,18 +9,36 @@ nav {
     background-color: var(--nav-color);
 }
 
+h1 {
+    color:var(--gray);
+    font-size: 10 rem;
+}
+
  a {
     padding: 30px;
 }
+
 form {
     background-color: var(--gray);
 }
+
+ul {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+  }
+  
+  li {
+    list-style-type: none;
+  }
+  
 
 body{
     text-align: center;
     margin: 0;
     font-family: 'Oxygen', sans-serif;
 }
+
 input{
     margin: 10px;
 }
