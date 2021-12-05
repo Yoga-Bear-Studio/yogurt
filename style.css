@@ -10,8 +10,8 @@ nav {
 }
 
 h1 {
-    color:var(--gray);
-    font-size: 10 rem;
+    font-size: 5rem;
+    color: var(--gray)
 }
 
  a {
@@ -42,5 +42,4 @@ body{
 input{
     margin: 10px;
 }
-
 
