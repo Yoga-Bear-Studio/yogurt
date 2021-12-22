@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@700&display=swap');
+:root{
+    --nav-color: #FF87CA;
+    --gray: #EAEAEA;
+    --light-pink: #FFC4E1;
+}
+
+nav {
+    background-color: var(--nav-color);
+}
+
+h1 {
+    font-size: 5rem;
+    color: var(--gray);
+    text-align: center;
+}
+
+ a {
+    padding: 30px;
+}
+
+form {
+    background-color: var(--gray);
+    text-align: center;
+}
+
+ul {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+  }
+  
+  li {
+    list-style-type: none;
+  }
+  
+
+body{
+    text-align: center;
+    margin: 5px;
+    font-family: 'Oxygen', sans-serif;
+}
+
+input{
+    margin: 10px;
+}
+
+footer {
+    text-align: center;
+}
